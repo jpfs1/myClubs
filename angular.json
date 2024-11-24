@@ -24,6 +24,11 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "Replica-BoldItalic.b7a48e8b.woff2",
+                "input": "public",
+                "output": "public"
               }
             ],
             "styles": [
